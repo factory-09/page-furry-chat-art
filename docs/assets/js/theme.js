@@ -1,0 +1,9 @@
+'use strict';
+
+discord_getImages(
+	'#data-art',
+	'303327594793795588',
+	'303556951672094722',
+	'100',
+	'TlRNNE5qZzFPREF4TVRRME1qVTBORGMxLkR5NW9fQS5mbTlpdkxCYUt2aTlaZE5JRW9KUGtSQ0Q1V0k='
+);
