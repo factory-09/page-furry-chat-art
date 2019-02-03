@@ -1,5 +1,5 @@
 'use strict';
-/*
+
 discord.images.run(
 	'#data-art',
 	'303327594793795588',
@@ -7,4 +7,3 @@ discord.images.run(
 	'100',
 	'TlRNNE5qZzFPREF4TVRRME1qVTBORGMxLkR5NW9fQS5mbTlpdkxCYUt2aTlaZE5JRW9KUGtSQ0Q1V0k='
 );
-*/
