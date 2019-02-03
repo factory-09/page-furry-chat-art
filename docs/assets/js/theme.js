@@ -1,6 +1,6 @@
 'use strict';
 
-discord.images.run(
+runDiscord.images.run(
 	'#data-art',
 	'303327594793795588',
 	'303556951672094722',
